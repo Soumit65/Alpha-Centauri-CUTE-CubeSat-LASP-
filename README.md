@@ -1,6 +1,6 @@
 # Alpha-Centauri-CUTE-CubeSat-LASP
 (Repository under development)
-This repository contains some my basic sections from the analysis for the Alpha Centauri Project
+This repository contains some of my basic sections from the analysis for the Alpha Centauri Project under Dr. Dolon Bhattacharaya (UC Boulder LASP)
 I have hadded some important techniques I learnt during the Analysis for the project such as the Lomb Scargle periodogram
 
 ## Analysis Overview
