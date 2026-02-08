@@ -5,13 +5,12 @@ I have hadded some important techniques I learnt during the Analysis for the pro
 
 ## Analysis Overview
 
-This project analyzes time-series photometric data of Alpha Centauri to study
+This project analyzes time-series of NUV spectral data of Alpha Centauri to study
 periodic variability associated with stellar rotation and activity.
 
 ### 1. Input Time-Series Data
-The analysis uses photometric light-curve data of Alpha Centauri obtained from
-public observational sources. The data consist of brightness measurements as a
-function of time.
+The analysis uses NUV spectral data of Alpha Centauri obtained from
+public observational sources such as IUE and CUTE cubesat. The data of Near UV spectra.
 
 ### 2. Data Cleaning and Preprocessing
 The raw time series is preprocessed to:
